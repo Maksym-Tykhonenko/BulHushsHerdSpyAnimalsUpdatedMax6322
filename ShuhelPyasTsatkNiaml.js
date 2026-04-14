@@ -56,7 +56,7 @@ const RtyMain = () => {
 
   const ONESIGNAL_KEY = `4334ff82-fe9a-4b0e-98c2-e03f26ac581e`;
 
-  const TARGET_DATA = new Date(2026, 3, 11, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 3, 16, 8, 8, 0);
 
   useEffect(() => {
     const fetchData = async () => {
